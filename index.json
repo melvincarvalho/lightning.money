@@ -189,7 +189,7 @@
                 },
                 {
                     "@_NAME": "AutomaticEdgeColor",
-                    "@_COUNTER": 4,
+                    "@_COUNTER": 5,
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],
@@ -607,6 +607,16 @@
                                 }
                             }
                         }
+                    }
+                },
+                {
+                    "@_TEXT": "fork",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_1679611241",
+                    "@_CREATED": 1570117107113,
+                    "@_MODIFIED": 1570117108545,
+                    "edge": {
+                        "@_COLOR": "#00ffff"
                     }
                 },
                 {
